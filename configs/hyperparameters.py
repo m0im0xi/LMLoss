@@ -1,0 +1,9 @@
+alpha = 0.01
+beta = 0.01
+gamma = 0.1
+delta_v = 1
+delta_d = 2.5
+num_classes = 10
+num_epochs = 50
+learning_rate = 0.001
+batch_size = 128
